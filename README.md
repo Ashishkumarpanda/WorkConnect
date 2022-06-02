@@ -33,3 +33,5 @@ To Start Server:
 To Visit App:
 
 `localhost:3000/`  
+
+http://ec2-13-127-82-222.ap-south-1.compute.amazonaws.com:3000/login
